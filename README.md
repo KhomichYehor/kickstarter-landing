@@ -1,4 +1,4 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://KhomichYehor.github.io/portfolio-kickstarter/)
+[DEMO LINK](https://KhomichYehor.github.io/portfolio-kickstarter/)
+
+Ласкаво прошу на мій лендінг проект! Я - фронтенд розробник, який створивши даний лендінг мав на меті продемонструвати Вам мої навички з верстки лендінг проектів. Створюючи даний проект я мав на меті викласти інформацію про продукт, висвітлити його переваги, можливості, унікальність. 
+При розробці я використовував: БЕМ-методологію, HTML, SCSS, JS.
