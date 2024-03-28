@@ -1,4 +1,4 @@
-[DEMO LINK](https://KhomichYehor.github.io/portfolio-kickstarter/)
+[DEMO LINK](https://KhomichYehor.github.io/kickstarter-landing/)
 
-Ласкаво прошу на мій лендінг проект! Я - фронтенд розробник, який створивши даний лендінг мав на меті продемонструвати Вам мої навички з верстки лендінг проектів. Створюючи даний проект я мав на меті викласти інформацію про продукт, висвітлити його переваги, можливості, унікальність. 
-При розробці я використовував: БЕМ-методологію, HTML, SCSS, JS.
+Welcome to my landing project! I'm a Front-End developer, who created this landing page with the aim of demonstrating to You my skills in the layout of landing projects. When creating this project, i aimed to present information about the product, highlight it's advantages, possibilities, and uniqueness.
+During development, I used: BEM methodology, HTML, SCSS, JS.
